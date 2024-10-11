@@ -19,7 +19,7 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
 <p align="left">
 <a href="https://twitter.com/tonyvallad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonyvallad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthony-vallad-1950a041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-vallad-1950a041" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tonyvallad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tonyvallad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tonyvallad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tonyvallad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
