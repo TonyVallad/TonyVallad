@@ -12,7 +12,7 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
 
 ### Currently Working On
 - 🤖 AI and Python-based projects as part of my course.
-- 📝 A curses-based Pokémon tournament simulator in Python.
+- 🔍 Building a **Nutri-Score Prediction Model** using machine learning in Python to predict nutritional scores based on Open Food Facts data ([GitHub Repository](https://github.com/TonyVallad/Nutriscore-Prediction-Model)).
 - 🛠️ Enhancing my skills in machine learning, web technologies, and data science.
 
 ---
