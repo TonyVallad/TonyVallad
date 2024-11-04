@@ -33,6 +33,15 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
   <a href="https://www.qb64.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Qb64.png" alt="qb64" width="40" height="40"/>
   </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="visual basic" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Ada_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/31/20230114063541%21Ada_horizon_green_logo_with_slogan.svg" alt="ada" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=JIca3PdDDoXN&format=png&color=000000" alt="pascal" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
