@@ -55,7 +55,7 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
 
 <h3 align="center">Databases:</h3>
 <p align="center">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23FFA500.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23FF6F00.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
