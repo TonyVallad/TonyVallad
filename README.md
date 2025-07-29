@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyvallad&label=Profile%20views&color=0e75b6&style=flat" alt="tonyvallad" /> </p>
 
-I’m Tony Vallad, currently a student in an AI Developer course by Simplon and Microsoft, focusing on Python, Git, GitHub, HTML, SQL, and more. With a solid background in Computer Science and web development, I bring both technical expertise and real-world problem-solving skills from my years as a web developer and an EMT.
+I'm Tony Vallad, currently a student in an AI Developer course by Simplon and Microsoft, focusing on Python, Git, GitHub, HTML, SQL, and more. With a solid background in Computer Science and web development, I bring both technical expertise and real-world problem-solving skills from my years as a web developer and an EMT.
 
 ### About Me
 - 🌍 Based in France, I speak French, English, and Spanish.
@@ -12,7 +12,8 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
 
 ### Currently Working On
 - 🤖 AI and Python-based projects as part of my course.
-- 🔍 Building a **Nutri-Score Prediction Model** using machine learning in Python to predict nutritional scores based on Open Food Facts data ([GitHub Repository](https://github.com/TonyVallad/Nutriscore-Prediction-Model)).
+- 🏥 **Apprenticeship at CIC-IT lab** at CHRU Nancy Brabois since March 2025.
+- 🔬 **CSI-Predictor Project**: Developing a modular PyTorch codebase for 6-zone CSI scoring on chest X-ray images using deep learning ([GitHub Repository](https://github.com/TonyVallad/CSI-Predictor)).
 - 🛠️ Enhancing my skills in machine learning, web technologies, and data science.
 
 ---
@@ -41,7 +42,7 @@ I’m Tony Vallad, currently a student in an AI Developer course by Simplon and 
 <h3 align="center">Machine Learning / Deep Learning:</h3>
 <p align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <!-- <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
